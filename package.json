@@ -1,0 +1,23 @@
+{
+  "name": "www.chipsofttech.com.backup.06102018",
+  "version": "1.0.0",
+  "description": "www.chipsofttech.com.backup.06102018",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancartercst/www.chipsofttech.com.backup.06102018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briancartercst/www.chipsofttech.com.backup.06102018/issues"
+  },
+  "homepage": "https://github.com/briancartercst/www.chipsofttech.com.backup.06102018#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
